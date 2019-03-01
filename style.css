@@ -12,3 +12,9 @@
     padding:80px;
     color : white;
 }
+
+
+.carousel img {
+    max-height: 300px;
+    margin: 0 auto;
+}
