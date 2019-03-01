@@ -1,0 +1,14 @@
+
+  footer{
+      width:100%;
+      background-color: black;
+      height: 250px;
+  }
+.container{
+    margin-top : 15px !important;
+    margin-bottom : 15px !important;
+}
+.text-center{
+    padding:80px;
+    color : white;
+}
